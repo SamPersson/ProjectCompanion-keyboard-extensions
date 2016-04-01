@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ProjectCompanion tidsvy
+// @name        ProjectCompanion timeview
 // @namespace   projectcompanion.keyboardextensions
 // @include     https://host*.projectcompanion.com/ProjectCompanion/application/time/timeview.asp*
 // @version     1
